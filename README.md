@@ -1,6 +1,4 @@
-# Image-Recognition-using-kNN
-This project is part of a Machine Learning course at the University of Management &amp; Technology under the Department of Artificial Intelligence. It focuses on image classification using the k-Nearest Neighbors (kNN) algorithm on the MNIST dataset of handwritten digits.
-# 🧠 ML Assignment 2 — Image Recognition using kNN
+# 🧠 Machine Learning — Image Recognition using kNN
 
 This project is a case study for applying the **k-Nearest Neighbors (kNN)** algorithm on the **MNIST handwritten digit dataset**. It is submitted as part of the Machine Learning course at the **University of Management & Technology**.
 
